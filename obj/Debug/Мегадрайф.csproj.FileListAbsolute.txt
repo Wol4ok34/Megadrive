@@ -1,0 +1,14 @@
+Z:\ISP-302\MegaDrive\Баландин\Мегадрайф\Мегадрайф\bin\Debug\Мегадрайф.exe.config
+Z:\ISP-302\MegaDrive\Баландин\Мегадрайф\Мегадрайф\bin\Debug\Мегадрайф.exe
+Z:\ISP-302\MegaDrive\Баландин\Мегадрайф\Мегадрайф\bin\Debug\Мегадрайф.pdb
+Z:\ISP-302\MegaDrive\Баландин\Мегадрайф\Мегадрайф\obj\Debug\Мегадрайф.csprojResolveAssemblyReference.cache
+Z:\ISP-302\MegaDrive\Баландин\Мегадрайф\Мегадрайф\obj\Debug\Мегадрайф.Authorization.resources
+Z:\ISP-302\MegaDrive\Баландин\Мегадрайф\Мегадрайф\obj\Debug\Мегадрайф.NoAuthorizationForm.resources
+Z:\ISP-302\MegaDrive\Баландин\Мегадрайф\Мегадрайф\obj\Debug\Мегадрайф.Properties.Resources.resources
+Z:\ISP-302\MegaDrive\Баландин\Мегадрайф\Мегадрайф\obj\Debug\Мегадрайф.csproj.GenerateResource.cache
+Z:\ISP-302\MegaDrive\Баландин\Мегадрайф\Мегадрайф\obj\Debug\Мегадрайф.csproj.CoreCompileInputs.cache
+Z:\ISP-302\MegaDrive\Баландин\Мегадрайф\Мегадрайф\obj\Debug\Мегадрайф.exe
+Z:\ISP-302\MegaDrive\Баландин\Мегадрайф\Мегадрайф\obj\Debug\Мегадрайф.pdb
+Z:\ISP-302\MegaDrive\Баландин\Мегадрайф\Мегадрайф\obj\Debug\Мегадрайф.MainForm.resources
+Z:\ISP-302\MegaDrive\Баландин\Мегадрайф\Мегадрайф\obj\Debug\Мегадрайф.AdminForm.resources
+Z:\ISP-302\MegaDrive\Баландин\Мегадрайф\Мегадрайф\obj\Debug\Мегадрайф.MenedgerForm.resources
